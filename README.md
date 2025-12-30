@@ -1,6 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18099753.svg)](https://doi.org/10.5281/zenodo.18099753)
 # Spatio-temporal-reallocation-of-taxi-demand-across-weekdays
 Data and code for spatio-temporal analysis of taxi demand across weekdays
 # Data and code for spatio-temporal analysis of NYC taxi demand
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.18099753
+
 
 ## Data Description
 
